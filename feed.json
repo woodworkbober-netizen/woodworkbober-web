@@ -9,5 +9,60 @@
         "name": "Francisco Bober"
     },
     "items": [
+        {
+            "id": "https://woodworkbober.com./more-info-coming-soon-3/",
+            "url": "https://woodworkbober.com./more-info-coming-soon-3/",
+            "title": "More info coming soon...",
+            "author": {
+                "name": "Francisco Bober"
+            },
+            "tags": [
+                   "Restoration"
+            ],
+            "date_published": "2026-10-08T20:12:25+02:00",
+            "date_modified": "2026-10-08T20:12:25+02:00"
+        },
+        {
+            "id": "https://woodworkbober.com./more-info-coming-soon-2/",
+            "url": "https://woodworkbober.com./more-info-coming-soon-2/",
+            "title": "More info coming soon...",
+            "author": {
+                "name": "Francisco Bober"
+            },
+            "tags": [
+                   "Custome tables"
+            ],
+            "date_published": "2026-10-08T20:11:47+02:00",
+            "date_modified": "2026-10-08T20:11:47+02:00"
+        },
+        {
+            "id": "https://woodworkbober.com./more-info-coming-soon/",
+            "url": "https://woodworkbober.com./more-info-coming-soon/",
+            "title": "More info coming soon...",
+            "author": {
+                "name": "Francisco Bober"
+            },
+            "tags": [
+                   "Wooden Dishes"
+            ],
+            "date_published": "2026-10-08T19:54:04+02:00",
+            "date_modified": "2026-10-08T19:54:04+02:00"
+        },
+        {
+            "id": "https://woodworkbober.com./solid-olive-wood-coffee-table-lived-edge/",
+            "url": "https://woodworkbober.com./solid-olive-wood-coffee-table-lived-edge/",
+            "title": "Solid olive wood coffee table - lived edge.",
+            "summary": "The idea of ​​bringing a piece of nature into the home is both fascinating and relaxing. I believe that this contact with less processed materials in our homes provides a link between the world of cement and plastic we live in and the nature that&hellip;",
+            "content_html": "<p> </p>\n<h3>Vision:<figure class=\"post__image post__image--left\"><img loading=\"lazy\"  src=\"https://woodworkbober.com./media/posts/1/DSC03160Table-Olive-and-epoxy-2026.jpg\" alt=\"\" width=\"3465\" height=\"2624\" sizes=\"(max-width: 1920px) 100vw, 1920px\" srcset=\"https://woodworkbober.com./media/posts/1/responsive/DSC03160Table-Olive-and-epoxy-2026-xs.jpg 640w ,https://woodworkbober.com./media/posts/1/responsive/DSC03160Table-Olive-and-epoxy-2026-sm.jpg 768w ,https://woodworkbober.com./media/posts/1/responsive/DSC03160Table-Olive-and-epoxy-2026-md.jpg 1024w ,https://woodworkbober.com./media/posts/1/responsive/DSC03160Table-Olive-and-epoxy-2026-lg.jpg 1366w ,https://woodworkbober.com./media/posts/1/responsive/DSC03160Table-Olive-and-epoxy-2026-xl.jpg 1600w ,https://woodworkbober.com./media/posts/1/responsive/DSC03160Table-Olive-and-epoxy-2026-2xl.jpg 1920w\"></figure></h3>\n<p>The idea of ​​bringing a piece of nature into the home is both fascinating and relaxing. I believe that this contact with less processed materials in our homes provides a link between the world of cement and plastic we live in and the nature that is our root on this planet. While the functionality of a table is important, leaving small indentations that recall the irregularity of nature is a subtle balance in the construction and design of our tables.</p>\n<h3>Materials:</h3>\n<div class=\"gallery-wrapper\"><div class=\"gallery\" data-translation=\"Add images\" data-columns=\"3\" data-is-empty=\"false\">\n<figure class=\"gallery__item\"><a href=\"https://woodworkbober.com./media/posts/1/gallery/DSC03181Table-Olive-and-epoxy-2026.jpg\" data-size=\"3936x2624\"><img loading=\"lazy\" src=\"https://woodworkbober.com./media/posts/1/gallery/DSC03181Table-Olive-and-epoxy-2026-thumbnail.jpg\" alt=\"\" width=\"720\" height=\"480\"></a></figure>\n</div></div>\n<p>Kiln-dried olive wood table, with small decorations and epoxy resin inlays.<br>Ideal for indoors, designed for apartments, with ample storage space underneath.<br>Minimalist and sturdy metal base.</p>\n<p>Mostly handcrafted using traditional tools.<br>The quality of the materials used is very important to us, which is why we source premium woods and use high-quality finishing products. In this case, we rely on Rubiomonocoat's certification as a product that is both environmentally friendly and safe for people. as well for the glue used in some of the sections.</p>\n<h3>Dimensions</h3>\n<p>Size: 78cm long x 43cm wide x 46cm high</p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://woodworkbober.com./media/posts/1/DSC03175Table-Olive-and-epoxy-2026.jpg\" alt=\"\" width=\"3725\" height=\"2518\" sizes=\"(max-width: 1920px) 100vw, 1920px\" srcset=\"https://woodworkbober.com./media/posts/1/responsive/DSC03175Table-Olive-and-epoxy-2026-xs.jpg 640w ,https://woodworkbober.com./media/posts/1/responsive/DSC03175Table-Olive-and-epoxy-2026-sm.jpg 768w ,https://woodworkbober.com./media/posts/1/responsive/DSC03175Table-Olive-and-epoxy-2026-md.jpg 1024w ,https://woodworkbober.com./media/posts/1/responsive/DSC03175Table-Olive-and-epoxy-2026-lg.jpg 1366w ,https://woodworkbober.com./media/posts/1/responsive/DSC03175Table-Olive-and-epoxy-2026-xl.jpg 1600w ,https://woodworkbober.com./media/posts/1/responsive/DSC03175Table-Olive-and-epoxy-2026-2xl.jpg 1920w\"></figure>",
+            "image": "https://woodworkbober.com./media/posts/1/DSC03182Table-Olive-and-epoxy-2026.jpg",
+            "author": {
+                "name": "Francisco Bober"
+            },
+            "tags": [
+                   "Coffe table"
+            ],
+            "date_published": "2026-10-08T18:58:12+02:00",
+            "date_modified": "2026-10-08T18:58:12+02:00"
+        }
     ]
 }
