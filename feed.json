@@ -1,6 +1,6 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "woodworkbober (EN)",
+    "title": "woodworkbober",
     "description": "",
     "home_page_url": "https://woodworkbober.com",
     "feed_url": "https://woodworkbober.com/feed.json",
@@ -19,10 +19,11 @@
                 "name": "Francisco Bober"
             },
             "tags": [
+                   "Stoliki kawowe",
                    "Polski"
             ],
             "date_published": "2026-10-13T18:23:13+02:00",
-            "date_modified": "2026-10-13T18:23:13+02:00"
+            "date_modified": "2026-10-13T18:52:52+02:00"
         },
         {
             "id": "https://woodworkbober.com/more-info-coming-soon-3/",
@@ -40,28 +41,41 @@
         {
             "id": "https://woodworkbober.com/more-info-coming-soon-2/",
             "url": "https://woodworkbober.com/more-info-coming-soon-2/",
-            "title": "More info coming soon...",
+            "title": "-",
+            "summary": "More info coming soon... Próximamente más información... Więcej informacji wkrótce...",
+            "content_html": "<p>More info coming soon...</p>\n<p>Próximamente más información...</p>\n<p>Więcej informacji wkrótce...</p>",
             "author": {
                 "name": "Francisco Bober"
             },
             "tags": [
-                   "Mesas personalizadas"
+                   "Wooden Dishes",
+                   "Stoły na zamówienie",
+                   "Restoration",
+                   "Restauración",
+                   "Renowacja",
+                   "Platos de madera",
+                   "Mesas personalizadas",
+                   "Drewniane naczynia",
+                   "Custom tables"
             ],
             "date_published": "2026-10-08T20:11:47+02:00",
-            "date_modified": "2026-10-08T20:11:47+02:00"
+            "date_modified": "2026-10-13T18:54:17+02:00"
         },
         {
             "id": "https://woodworkbober.com/more-info-coming-soon/",
             "url": "https://woodworkbober.com/more-info-coming-soon/",
-            "title": "More info coming soon...",
+            "title": "Solid olive wood coffee table with live edge.",
+            "summary": "Vision: The idea of ​​bringing a piece of nature into our homes is fascinating and relaxing. I believe that this contact with less processed materials in our homes creates a link between the world of cement and plastic we live in and the nature that&hellip;",
+            "content_html": "<h3>Vision:<figure class=\"post__image post__image--left\"><img loading=\"lazy\"  src=\"file:///C:/Users/Coco.Bober/Documents/Publii/sites/woodworkbober-en/input/media/posts/1/DSC03160Table-Olive-and-epoxy-2026.jpg\" alt=\"\" width=\"3465\" height=\"2624\" sizes=\"(max-width: 1920px) 100vw, 1920px\" srcset=\"file:///C:/Users/Coco.Bober/Documents/Publii/sites/woodworkbober-en/input/media/posts/1/responsive/DSC03160Table-Olive-and-epoxy-2026-xs.jpg 640w ,file:///C:/Users/Coco.Bober/Documents/Publii/sites/woodworkbober-en/input/media/posts/1/responsive/DSC03160Table-Olive-and-epoxy-2026-sm.jpg 768w ,file:///C:/Users/Coco.Bober/Documents/Publii/sites/woodworkbober-en/input/media/posts/1/responsive/DSC03160Table-Olive-and-epoxy-2026-md.jpg 1024w ,file:///C:/Users/Coco.Bober/Documents/Publii/sites/woodworkbober-en/input/media/posts/1/responsive/DSC03160Table-Olive-and-epoxy-2026-lg.jpg 1366w ,file:///C:/Users/Coco.Bober/Documents/Publii/sites/woodworkbober-en/input/media/posts/1/responsive/DSC03160Table-Olive-and-epoxy-2026-xl.jpg 1600w ,file:///C:/Users/Coco.Bober/Documents/Publii/sites/woodworkbober-en/input/media/posts/1/responsive/DSC03160Table-Olive-and-epoxy-2026-2xl.jpg 1920w\"></figure></h3>\n<p>The idea of ​​bringing a piece of nature into our homes is fascinating and relaxing. I believe that this contact with less processed materials in our homes creates a link between the world of cement and plastic we live in and the nature that is our root on this planet. While the functionality of a table is important, leaving small indentations that recall the irregularity of nature is a subtle balance in the construction and design of our tables.</p>\n<h3>Materials:</h3>\n<div class=\"gallery-wrapper\"><div class=\"gallery\" data-translation=\"Add images\" data-columns=\"3\" data-is-empty=\"false\">\n<figure class=\"gallery__item\"><a href=\"file:///C:/Users/Coco.Bober/Documents/Publii/sites/woodworkbober-en/input/media/posts/1/gallery/DSC03181Table-Olive-and-epoxy-2026.jpg\" data-size=\"3936x2624\"><img loading=\"lazy\" src=\"file:///C:/Users/Coco.Bober/Documents/Publii/sites/woodworkbober-en/input/media/posts/1/gallery/DSC03181Table-Olive-and-epoxy-2026-thumbnail.jpg\" alt=\"\" width=\"720\" height=\"480\"></a></figure>\n</div></div>\n<p>Kiln-dried olive wood table with small decorations and epoxy resin inlays.</p>\n<p>Ideal for indoor use, designed for apartments, with ample storage space underneath. Minimalist and sturdy metal base.</p>\n<p>Mainly handcrafted using traditional tools.</p>\n<p>The quality of the materials used is paramount to us, so we select premium woods and use high-quality finishing products. In this case, we rely on Rubiomonocoat's certification as an environmentally friendly and safe product, as well as the adhesive used in some sections.</p>\n<h3>Dimensions</h3>\n<p>Size: 78 cm long x 43 cm wide x 46 cm high</p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"file:///C:/Users/Coco.Bober/Documents/Publii/sites/woodworkbober-en/input/media/posts/1/DSC03175Table-Olive-and-epoxy-2026.jpg\" alt=\"\" width=\"3725\" height=\"2518\" sizes=\"(max-width: 1920px) 100vw, 1920px\" srcset=\"file:///C:/Users/Coco.Bober/Documents/Publii/sites/woodworkbober-en/input/media/posts/1/responsive/DSC03175Table-Olive-and-epoxy-2026-xs.jpg 640w ,file:///C:/Users/Coco.Bober/Documents/Publii/sites/woodworkbober-en/input/media/posts/1/responsive/DSC03175Table-Olive-and-epoxy-2026-sm.jpg 768w ,file:///C:/Users/Coco.Bober/Documents/Publii/sites/woodworkbober-en/input/media/posts/1/responsive/DSC03175Table-Olive-and-epoxy-2026-md.jpg 1024w ,file:///C:/Users/Coco.Bober/Documents/Publii/sites/woodworkbober-en/input/media/posts/1/responsive/DSC03175Table-Olive-and-epoxy-2026-lg.jpg 1366w ,file:///C:/Users/Coco.Bober/Documents/Publii/sites/woodworkbober-en/input/media/posts/1/responsive/DSC03175Table-Olive-and-epoxy-2026-xl.jpg 1600w ,file:///C:/Users/Coco.Bober/Documents/Publii/sites/woodworkbober-en/input/media/posts/1/responsive/DSC03175Table-Olive-and-epoxy-2026-2xl.jpg 1920w\"></figure>",
             "author": {
                 "name": "Francisco Bober"
             },
             "tags": [
-                   "Platos de madera"
+                   "English",
+                   "Coffee table"
             ],
             "date_published": "2026-10-08T19:54:04+02:00",
-            "date_modified": "2026-10-08T19:54:04+02:00"
+            "date_modified": "2026-10-13T18:52:24+02:00"
         },
         {
             "id": "https://woodworkbober.com/solid-olive-wood-coffee-table-lived-edge/",
@@ -78,7 +92,7 @@
                    "Español"
             ],
             "date_published": "2026-10-08T18:58:12+02:00",
-            "date_modified": "2026-10-13T18:03:22+02:00"
+            "date_modified": "2026-10-13T18:52:36+02:00"
         }
     ]
 }
