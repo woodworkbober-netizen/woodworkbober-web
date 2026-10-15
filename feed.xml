@@ -3,7 +3,7 @@
     <title>woodworkbober</title>
     <link href="https://woodworkbober.com/feed.xml" rel="self" />
     <link href="https://woodworkbober.com" />
-    <updated>2026-10-15T17:34:49+02:00</updated>
+    <updated>2026-10-15T18:57:54+02:00</updated>
     <author>
         <name>Francisco Bober</name>
     </author>
@@ -124,6 +124,11 @@
 <h3>Dimensions</h3>
 <p>Size: 78 cm long x 43 cm wide x 46 cm high</p>
 <figure class="post__image"><img loading="lazy"  src="file:///C:/Users/Coco.Bober/Documents/Publii/sites/woodworkbober/input/media/posts/1/DSC03175Table-Olive-and-epoxy-2026.jpg" alt="" width="3725" height="2518" sizes="(max-width: 1920px) 100vw, 1920px" srcset="file:///C:/Users/Coco.Bober/Documents/Publii/sites/woodworkbober/input/media/posts/1/responsive/DSC03175Table-Olive-and-epoxy-2026-xs.jpg 640w ,file:///C:/Users/Coco.Bober/Documents/Publii/sites/woodworkbober/input/media/posts/1/responsive/DSC03175Table-Olive-and-epoxy-2026-sm.jpg 768w ,file:///C:/Users/Coco.Bober/Documents/Publii/sites/woodworkbober/input/media/posts/1/responsive/DSC03175Table-Olive-and-epoxy-2026-md.jpg 1024w ,file:///C:/Users/Coco.Bober/Documents/Publii/sites/woodworkbober/input/media/posts/1/responsive/DSC03175Table-Olive-and-epoxy-2026-lg.jpg 1366w ,file:///C:/Users/Coco.Bober/Documents/Publii/sites/woodworkbober/input/media/posts/1/responsive/DSC03175Table-Olive-and-epoxy-2026-xl.jpg 1600w ,file:///C:/Users/Coco.Bober/Documents/Publii/sites/woodworkbober/input/media/posts/1/responsive/DSC03175Table-Olive-and-epoxy-2026-2xl.jpg 1920w"></figure>
+<p> </p>
+<p>
+<script async="" src="https://js.stripe.com/v3/buy-button.js">
+</script>
+</p>
             ]]>
         </content>
     </entry>
