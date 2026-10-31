@@ -3,7 +3,7 @@
     <title>woodworkbober</title>
     <link href="https://woodworkbober.com/feed.xml" rel="self" />
     <link href="https://woodworkbober.com" />
-    <updated>2026-10-30T16:39:10+01:00</updated>
+    <updated>2026-10-31T19:24:04+01:00</updated>
     <author>
         <name>Francisco Bober</name>
     </author>
@@ -16,6 +16,7 @@
         </author>
         <link href="https://woodworkbober.com/rustykalne-talerze-drewniane/"/>
         <id>https://woodworkbober.com/rustykalne-talerze-drewniane/</id>
+            <category term="Polski"/>
             <category term="Drewniane naczynia"/>
 
         <updated>2026-10-30T16:38:59+01:00</updated>
@@ -49,6 +50,7 @@
         <link href="https://woodworkbober.com/rustic-wooden-plates/"/>
         <id>https://woodworkbober.com/rustic-wooden-plates/</id>
             <category term="Wooden Dishes"/>
+            <category term="English"/>
 
         <updated>2026-10-30T16:31:09+01:00</updated>
             <summary type="html">
@@ -136,6 +138,7 @@
         <link href="https://woodworkbober.com/more-info-coming-soon-2/"/>
         <id>https://woodworkbober.com/more-info-coming-soon-2/</id>
             <category term="Platos de madera"/>
+            <category term="Español"/>
 
         <updated>2026-10-08T20:11:47+02:00</updated>
             <summary type="html">
